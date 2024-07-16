@@ -2,5 +2,8 @@
 A React.js, Tailwind CSS-Shadcn/UI-based password generator
 
 
-https://github.com/user-attachments/assets/edbd50b7-8afa-422d-ba96-90e8a0ec85ef
+## App working:
 
+https://github.com/user-attachments/assets/832ce1c3-b569-4ba7-a500-2a4877e34b16
+
+Happy Coding!
